@@ -1,5 +1,5 @@
 section{
-    background: url('../ioi.jpg') no-repeat;
+    background: url('./ioi.jpg') no-repeat;
     background-size: cover;
     min-height: 100vh;
 }
