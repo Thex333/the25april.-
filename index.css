@@ -1,5 +1,5 @@
 .home-main {
-  background: url("../hrllo.jpg") no-repeat;
+  background: url("./hrllo.jpg") no-repeat;
   background-size: cover;
   min-height: 100vh;
 }
