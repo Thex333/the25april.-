@@ -1,7 +1,7 @@
 section {
   min-height: 100vh;
-  background: -webkit-linear-gradient(top,rgba(4, 21, 34, 0.5),rgba(88, 87, 31, 0.6)), url('../ioi.jpg') no-repeat;
-  background: -moz-linear-gradient(top,rgba(4, 21, 34, 0.5),rgba(88, 87, 31, 0.6)), url('../ioi.jpg') no-repeat;
+  background: -webkit-linear-gradient(top,rgba(4, 21, 34, 0.5),rgba(88, 87, 31, 0.6)), url('./ioi.jpg') no-repeat;
+  background: -moz-linear-gradient(top,rgba(4, 21, 34, 0.5),rgba(88, 87, 31, 0.6)), url('./ioi.jpg') no-repeat;
   background-size: cover;
 }
 
