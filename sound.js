@@ -1,12 +1,12 @@
 var sounds = {
     "loose": {
-        url: "sounds/fail.mp3"
+        url: "/fail.mp3"
     },
     "keypress": {
-        url: "sounds/jump.mp3"
+        url: "/jump.mp3"
     },
     "won": {
-        url: "sounds/won.mp3"
+        url: "/won.mp3"
     }
 };
 var soundContext = new AudioContext();
